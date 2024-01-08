@@ -5,6 +5,8 @@
 ### 🤖 Sobre Mí
 Soy un estudiante dedicado especializándome en **Inteligencia Artificial**, **Informática** y **Programación**. Aunque todavía estoy en el camino para obtener mi título, he participado en varios proyectos innovadores en programación y robótica.
 
+Esta es una cuenta nueva. Puedes explorar algunos de mis proyectos públicos en el siguiente enlace: https://github.com/itprosta
+
 ---
 
 ### 🚀 Proyectos Destacados
