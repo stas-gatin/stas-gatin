@@ -20,7 +20,7 @@ Soy un estudiante dedicado especializándome en **Inteligencia Artificial**, **I
   - `C++`              ![C++](https://progress-bar.dev/60/)
   - `Arduino`      ![Arduino](https://progress-bar.dev/90/)
 - **Áreas de Interés:** 
-  - `AI/Machine Learning` ![AI/Machine Learning](https://progress-bar.dev/85/?title=85%)
+  - `AI/Machine Learning` ![AI/Machine Learning](https://progress-bar.dev/65/)
 
 ---
 
