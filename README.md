@@ -16,9 +16,9 @@ Soy un estudiante dedicado especializándome en **Inteligencia Artificial**, **I
 
 ### 💡 Habilidades Técnicas
 - **Lenguajes de Programación:** 
-  - `Python`        ![Python] (https://progress-bar.dev/90/)
-  - `C++`           ![C++]    (https://progress-bar.dev/60/)
-  - `Arduino`       ![Arduino](https://progress-bar.dev/90/)
+  - `Python`        ![Python](https://progress-bar.dev/90/)
+  - `C++`              ![C++](https://progress-bar.dev/60/)
+  - `Arduino`      ![Arduino](https://progress-bar.dev/90/)
 - **Áreas de Interés:** 
   - `AI/Machine Learning` ![AI/Machine Learning](https://progress-bar.dev/85/?title=85%)
 
