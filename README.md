@@ -25,7 +25,7 @@ Esta es una cuenta nueva. Puedes explorar algunos de mis proyectos públicos en 
   - `AI/Machine Learning` ![AI/Machine Learning](https://progress-bar.dev/65/)
 
    <p align="left">
-      <a href="https://www.youtube.com/c/Фсоки?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/itprosta?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCeiC2G8vcz6tBmvVo8ydMgQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/Фсоки">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCeiC2G8vcz6tBmvVo8ydMgQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
