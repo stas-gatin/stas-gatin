@@ -86,7 +86,3 @@ Security:       Wireshark          Pen Testing       Cryptography
     <img src="https://img.shields.io/badge/Portfolio-Showcase-FF6C37?style=flat&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k7k5ktqpunlnqgbdqfescuwp2q" alt="Music Vibes">
-</div>
