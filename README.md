@@ -3,16 +3,16 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF6C37?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
   </a>
   <h1>Stanislav Gatin</h1>
-  <h3>🤖 AI Developer | 🦾 Robotics Engineer | 🔐 Security Enthusiast</h3>
+  <h3>🤖 AI Engineer</h3>
 </div>
 
 ---
 
 ### 🚀 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itprosta&show_icons=true&theme=radical&include_all_commits=true" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itprosta&theme=radical" width="45%">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itprosta&theme=react-dark&area=true&hide_border=true" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api?username=stas-gatin&show_icons=true&theme=radical&include_all_commits=true" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stas-gatin&theme=radical" width="45%">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stas-gatin&theme=react-dark&area=true&hide_border=true" width="90%">
 </p>
 
 ---
@@ -24,16 +24,6 @@
 ![C++](https://img.shields.io/badge/C++-Advanced-00599C?logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JS-Intermediate-F7DF1E?logo=javascript)
 ![MIPS Assembly](https://img.shields.io/badge/ASM-Basic-6E4C13)
-![Solidity](https://img.shields.io/badge/Smart_Contracts-Proto-3C3C3D?logo=ethereum)
-
-#### **Specialized Domains**
-```text
-AI/ML           █████████▊  89% 
-Embedded        ██████▌     76%
-Full-Stack      █████▎      64% 
-Cybersecurity   ██████▋     70%
-Blockchain      ███▉        45%
-```
 
 ---
 
@@ -56,11 +46,7 @@ Blockchain      ███▉        45%
 
 <div align="center">
   <a href="https://currentsky.es">
-    <img src="https://img.shields.io/badge/🌌_CurrentSky-Astronomy_Platform-7D4698?style=for-the-badge&logo=stars" alt="Astronomy Platform">
-  </a>
-  <br>
-  <a href="https://itprosta.ru">
-    <img src="https://img.shields.io/badge/📖_Tech_Blog-009688?style=for-the-badge&logo=ghost" alt="Tech Blog">
+    <img src="https://img.shields.io/badge/🌌_CurrentSky-Electric_aircrafts-7D4698?style=for-the-badge&logo=stars" alt="Electric aircrafts">
   </a>
   <br>
   <a href="https://github.com/itprosta">
@@ -83,8 +69,8 @@ Security:       Wireshark          Pen Testing       Cryptography
 
 ### 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itprosta&repo=ProjectX&theme=radical)](https://github.com/itprosta/ProjectX)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itprosta&repo=AI-Framework&theme=radical)](https://github.com/itprosta/AI-Framework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stas-gatin&repo=NeuroWeave&theme=radical)](https://github.com/stas-gatin/NeuroWeave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stas-gatin&repo=Sistemas-Expertos&theme=radical)](https://github.com/stas-gatin/Sistemas-Expertos)
 
 ---
 
