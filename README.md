@@ -67,6 +67,11 @@ Security:       Wireshark          Pen Testing       Cryptography
 
 ---
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 ### 📌 Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stas-gatin&repo=NeuroWeave&theme=radical)](https://github.com/stas-gatin/NeuroWeave)
