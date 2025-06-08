@@ -68,7 +68,71 @@ Security:       Wireshark          Pen Testing       Cryptography
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-315.6%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 18 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                660 commits         ████████████░░░░░░░░░░░░░   47.69 % 
+🌆 Daytime                556 commits         ██████████░░░░░░░░░░░░░░░   40.17 % 
+🌃 Evening                164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Tuesday                  236 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Wednesday                294 commits         █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Thursday                 320 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Friday                   263 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Sunday                   15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ██████████████████████░░░   90.00 % 
+MATLAB                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+
+ Last Updated on 08/06/2025 22:46:20 UTC
 <!--END_SECTION:waka-->
 
 
