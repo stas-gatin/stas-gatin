@@ -26,13 +26,15 @@
 
 ### 💻 Core Languages
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-Expert-00599C?logo=cplusplus)
+![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?logo=c)
 ![JavaScript](https://img.shields.io/badge/JS-Intermediate-F7DF1E?logo=javascript)
-![MIPS Assembly](https://img.shields.io/badge/ASM-Basic-6E4C13)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-E34F26?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-1572B6?logo=css3)
+![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-FC4E2A?logo=mathworks)
+![Assembler MIPS](https://img.shields.io/badge/ASM%20MIPS-Basic-6E4C13)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql)
+![Lua](https://img.shields.io/badge/Lua-Intermediate-2C2D72?logo=lua)
+![Prolog](https://img.shields.io/badge/Prolog-Basic-2C2D72)
 
----
 
 ### 🧠 Knowledge
 ```text
@@ -85,8 +87,8 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ---
 ### 🚀 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stas-gatin&show_icons=true&theme=radical&include_all_commits=false" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stas-gatin&theme=radical" width="45%">  
+  <img src="https://github-readme-stats.vercel.app/api?username=stas-gatin&show_icons=true&theme=transparent&include_all_commits=false" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stas-gatin&theme=transparent" width="45%">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stas-gatin&theme=react-dark&area=true&hide_border=true" width="90%">
 </p>
 
@@ -163,6 +165,6 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 ---
 
 ### 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stas-gatin&repo=NeuroWeave&theme=radical)](https://github.com/stas-gatin/NeuroWeave)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stas-gatin&repo=Sistemas-Expertos&theme=radical)](https://github.com/stas-gatin/Sistemas-Expertos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stas-gatin&repo=NeuroWeave&theme=transparent)](https://github.com/stas-gatin/NeuroWeave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stas-gatin&repo=Sistemas-Expertos&theme=transparent)](https://github.com/stas-gatin/Sistemas-Expertos)
 ---
