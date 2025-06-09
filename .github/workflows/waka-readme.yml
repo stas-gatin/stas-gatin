@@ -16,7 +16,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           SHOW_OPERATING_SYSTEMS: "True"
           SHOW_COMMIT: "True"
           LOCALE: "en"
