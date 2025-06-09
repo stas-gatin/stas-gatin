@@ -3,9 +3,13 @@
     <h1>Stanislav Gatin</h1>
     <h3>🤖 AI Engineer</h3>
     <p>
-      I build smart systems that connect AI with hardware.<br>
-      Passionate about embedded tech, computer vision, and crypto innovation.<br>
-      Creator of futuristic tools and efficient automations.
+     My journey as a programmer began at the age of 14 when I discovered my passion for coding. Since then, I’ve been programming every day and can’t imagine stopping 😎. I have extensive experience across various fields, including AI, web design, mobile and desktop application development, social media bots, robotics programming, and even game development with Unity.
+
+I am currently a third-year student pursuing a degree in Artificial Intelligence Engineering at the University of Alicante. I consider myself a dedicated and passionate individual when it comes to computer science, programming, and emerging technologies. Alongside my academic studies, I gain practical experience through projects in robotics and software development.
+
+Additionally, I actively work in the cryptocurrency mining sector, which has given me a solid understanding of the crypto ecosystem, blockchain technology, and its applications. In the teams I collaborate with, I often take on coordination and tactical planning responsibilities, helping ensure efficient and organized project execution.
+
+My strong teamwork skills, proactive attitude, and eagerness to learn enable me to tackle challenges effectively. I’m excited to continue growing professionally and contribute my skills in real-world, innovative environments.
     </p>
   </div>
   <div style="display: flex; flex-direction: column; gap: 6px;">
