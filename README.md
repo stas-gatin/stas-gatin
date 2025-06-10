@@ -99,9 +99,7 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-315.6%20thousand%20lines%20of%20code-blue)
 
@@ -109,7 +107,7 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2025
+> 🏆 35 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -117,42 +115,6 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                663 commits         ████████████░░░░░░░░░░░░░   47.42 % 
-🌆 Daytime                562 commits         ██████████░░░░░░░░░░░░░░░   40.20 % 
-🌃 Evening                164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Tuesday                  236 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Wednesday                294 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Thursday                 320 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Friday                   263 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Sunday                   15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -163,7 +125,7 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2025 11:54:11 UTC
+ Last Updated on 10/06/2025 01:17:59 UTC
 <!--END_SECTION:waka-->
 
 ---
