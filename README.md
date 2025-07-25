@@ -92,15 +92,17 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-944.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 83 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -135,17 +137,17 @@ Sunday                   81 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   11 hrs 20 mins      ████████████████░░░░░░░░░   64.44 % 
-Other                    3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Docker                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   10 hrs              ████████████████░░░░░░░░░   63.29 % 
+Other                    3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Docker                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -158,7 +160,7 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2025 01:22:39 UTC
+ Last Updated on 25/07/2025 01:22:24 UTC
 <!--END_SECTION:waka-->
 
 ---
