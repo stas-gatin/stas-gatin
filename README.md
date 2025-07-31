@@ -92,17 +92,13 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2039%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-946.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-947.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 84 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -110,46 +106,6 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                761 commits         ███████████░░░░░░░░░░░░░░   42.18 % 
-🌆 Daytime                781 commits         ███████████░░░░░░░░░░░░░░   43.29 % 
-🌃 Evening                253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Tuesday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Wednesday                352 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Thursday                 473 commits         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-Friday                   341 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Saturday                 95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Sunday                   81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Python                   7 hrs 6 mins        ████████████████████░░░░░   78.28 % 
-Other                    1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 4 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      9 hrs 4 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -160,7 +116,7 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 01:24:07 UTC
+ Last Updated on 31/07/2025 01:23:47 UTC
 <!--END_SECTION:waka-->
 
 ---
