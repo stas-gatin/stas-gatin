@@ -92,7 +92,7 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -137,14 +137,14 @@ Sunday                   102 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   1 hr 40 mins        ██████████████████░░░░░░░   71.36 % 
-Bash                     40 mins             ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Python                   1 hr 35 mins        ██████████████████░░░░░░░   70.25 % 
+Bash                     40 mins             ███████░░░░░░░░░░░░░░░░░░   29.75 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -157,7 +157,7 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2025 01:15:40 UTC
+ Last Updated on 23/10/2025 01:13:35 UTC
 <!--END_SECTION:waka-->
 
 ---
