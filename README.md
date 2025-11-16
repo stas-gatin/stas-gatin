@@ -92,9 +92,7 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -102,63 +100,25 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2025
+> 🏆 91 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                790 commits         ██████████░░░░░░░░░░░░░░░   40.76 % 
-🌆 Daytime                843 commits         ███████████░░░░░░░░░░░░░░   43.50 % 
-🌃 Evening                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Wednesday                371 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Thursday                 511 commits         ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-Friday                   366 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Sunday                   102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Python                   9 hrs 50 mins       ███████████████████████░░   93.12 % 
-CSV                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 34 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      10 hrs 34 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████████████████████░░   90.91 % 
-MATLAB                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   11 repos            ███████████████████████░░   91.67 % 
+MATLAB                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 15/11/2025 01:14:05 UTC
+ Last Updated on 16/11/2025 01:20:41 UTC
 <!--END_SECTION:waka-->
 
 ---
