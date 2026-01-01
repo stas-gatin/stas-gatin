@@ -94,7 +94,7 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -102,7 +102,7 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 97 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -157,7 +157,7 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 01:21:43 UTC
+ Last Updated on 01/01/2026 01:28:47 UTC
 <!--END_SECTION:waka-->
 
 ---
