@@ -92,9 +92,11 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -108,6 +110,42 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                792 commits         ██████████░░░░░░░░░░░░░░░   40.68 % 
+🌆 Daytime                850 commits         ███████████░░░░░░░░░░░░░░   43.66 % 
+🌃 Evening                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Tuesday                  243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Wednesday                372 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Thursday                 513 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Friday                   366 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Saturday                 119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Sunday                   102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Swift                    2 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Cursor                   2 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      2 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -118,7 +156,7 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:29:45 UTC
+ Last Updated on 06/01/2026 01:22:05 UTC
 <!--END_SECTION:waka-->
 
 ---
