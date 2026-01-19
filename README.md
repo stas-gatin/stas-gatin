@@ -137,13 +137,13 @@ Sunday                   102 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Swift                    11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -156,7 +156,7 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2026 01:28:51 UTC
+ Last Updated on 19/01/2026 01:26:59 UTC
 <!--END_SECTION:waka-->
 
 ---
