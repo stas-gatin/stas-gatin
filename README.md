@@ -92,9 +92,9 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -137,16 +137,17 @@ Sunday                   103 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   28 hrs 6 mins       █████████████████████████   99.54 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   28 hrs 34 mins      ████████████████████████░   97.79 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      28 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +160,7 @@ MATLAB                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2026 01:52:43 UTC
+ Last Updated on 24/02/2026 01:49:49 UTC
 <!--END_SECTION:waka-->
 
 ---
