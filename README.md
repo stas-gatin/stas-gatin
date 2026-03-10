@@ -92,9 +92,9 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -137,17 +137,17 @@ Sunday                   109 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   13 hrs 5 mins       █████████████████████░░░░   85.52 % 
-Other                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Git                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Python                   13 hrs 5 mins       ██████████████████████░░░   86.56 % 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +162,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2026 01:51:31 UTC
+ Last Updated on 10/03/2026 01:44:36 UTC
 <!--END_SECTION:waka-->
 
 ---
