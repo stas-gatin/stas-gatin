@@ -92,9 +92,9 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2017%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -137,17 +137,17 @@ Sunday                   113 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       ████████████████░░░░░░░░░   65.17 % 
-Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Git Config               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Python                   1 hr 41 mins        ███████████████░░░░░░░░░░   58.41 % 
+Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Git Config               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2026 01:44:05 UTC
+ Last Updated on 22/03/2026 01:55:51 UTC
 <!--END_SECTION:waka-->
 
 ---
