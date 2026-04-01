@@ -92,9 +92,9 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -102,11 +102,11 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2026
+> 🏆 27 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -137,17 +137,17 @@ Sunday                   113 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       ████████████████████░░░░░   80.02 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Swift                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python                   5 hrs 43 mins       ██████████████████████░░░   88.23 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Swift                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2026 02:02:10 UTC
+ Last Updated on 01/04/2026 02:10:45 UTC
 <!--END_SECTION:waka-->
 
 ---
