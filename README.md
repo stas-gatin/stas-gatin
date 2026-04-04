@@ -53,26 +53,6 @@ Multimedia:     OBS Studio         DaVinci Resolve    CapCut                Film
 Infrastructure: Home Assistant     Grafana            Node-RED              Linux  Windows  MacOS
 Blockchain:     Blockchain         Crypto             Mining                Smart Contracts
 ```
----
-
-### 🏆 Certifications
-
-<table style="width: 100%; border-collapse: separate; border-spacing: 20px;">
-  <tr>
-    <td style="border: 2px solid #0A66C2; border-radius: 10px; padding: 15px; text-align: center; vertical-align: top;">
-      <h4>Introduction to Deep Learning & Neural Networks with Keras</h4>
-      <p><strong>IBM</strong> • 2024</p>
-      <p>Deep learning fundamentals and Keras framework</p>
-      <img src="https://github.com/stas-gatin/stas-gatin/blob/main/assets/Screenshot-2024-04-04-at-11.58.30.png.webp" alt="Deep Learning Keras Certificate" style="width: 40%; max-width: 180px; border-radius: 8px;">
-    </td>
-    <td style="border: 2px solid #FF6C37; border-radius: 10px; padding: 15px; text-align: center; vertical-align: top;">
-      <h4>Machine Learning with Python</h4>
-      <p><strong>IBM</strong> • 2024</p>
-      <p>Python ML algorithms and scikit-learn</p>
-      <img src="https://github.com/stas-gatin/stas-gatin/blob/main/assets/Screenshot-2024-04-04-at-12.02.03.png.webp" alt="Machine Learning Certificate" style="width: 40%; max-width: 180px; border-radius: 8px;">
-    </td>
-  </tr>
-</table>
 
 ---
 
