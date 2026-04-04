@@ -1,29 +1,25 @@
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
-    <h1>Stanislav Gatin</h1>
-    <h3>🤖 AI Engineer</h3>
-    <p>
-     My journey as a programmer began at the age of 14 when I discovered my passion for coding. Since then, I’ve been programming every day and can’t imagine stopping 😎. I have extensive experience across various fields, including AI, web design, mobile and desktop application development, social media bots, robotics programming, and even game development with Unity.
+### 👋 About Me
+I am a **Third-year student in Artificial Intelligence Engineering** at the University of Alicante, with a strong passion for programming, AI, robotics, and emerging technologies. I bridge the gap between academic theory and practical innovation.
 
-I am currently a third-year student pursuing a degree in Artificial Intelligence Engineering at the University of Alicante. I consider myself a dedicated and passionate individual when it comes to computer science, programming, and emerging technologies. Alongside my academic studies, I gain practical experience through projects in robotics and software development.
+My expertise includes:
+- 🧠 **Generative AI & RAG:** Designing intelligent architectures for complex problem-solving and autonomous process automation.
+- 🤖 **Intelligent Agents:** Developing autonomous systems capable of sophisticated interaction with diverse data and environments.
+- 🦾 **Modular Robotics:** Engineering adaptive algorithms that empower robotic systems to react autonomously to dynamic surroundings.
+- 📈 **Tactical Planning & Coordination:** Leading cross-functional teams with structured coordination and strategic project execution.
 
-Additionally, I actively work in the cryptocurrency mining sector, which has given me a solid understanding of the crypto ecosystem, blockchain technology, and its applications. In the teams I collaborate with, I often take on coordination and tactical planning responsibilities, helping ensure efficient and organized project execution.
+---
 
-My strong teamwork skills, proactive attitude, and eagerness to learn enable me to tackle challenges effectively. I’m excited to continue growing professionally and contribute my skills in real-world, innovative environments.
-    </p>
-  </div>
-  <div style="display: flex; flex-direction: column; gap: 6px;">
-    <a href="https://www.linkedin.com/in/stanislav-gatin/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
-    </a>
-    <a href="https://www.youtube.com/@CodigoCreativoES">
-      <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35">
-    </a>
-    <a href="https://sgatin.es">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-FF6C37?style=for-the-badge&logo=react&logoColor=white" height="35">
-    </a>
-  </div>
-</div>
+### 🚀 Startup: [CurrentSky](https://currentsky.es/)
+As the founder of **CurrentSky**, I am dedicated to integrating artificial intelligence into everyday tasks. We provide practical, high-impact solutions for optimization and efficiency across multiple domains, making AI accessible and useful for everyone.
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Stanislav%20Gatin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
