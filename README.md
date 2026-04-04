@@ -92,17 +92,13 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2039%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.43%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2026
+> 🏆 31 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -110,23 +106,15 @@ Blockchain:     Blockchain         Crypto             Mining                Smar
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                806 commits         ██████████░░░░░░░░░░░░░░░   39.59 % 
-🌆 Daytime                879 commits         ███████████░░░░░░░░░░░░░░   43.17 % 
-🌃 Evening                339 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Tuesday                  251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Tuesday                  251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 Wednesday                379 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Thursday                 527 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-Friday                   380 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Saturday                 142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Thursday                 527 commits         ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+Friday                   380 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Saturday                 143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 Sunday                   113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 ```
 
@@ -163,7 +151,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/04/2026 11:42:04 UTC
+ Last Updated on 04/04/2026 11:49:15 UTC
 <!--END_SECTION:waka-->
 
 ---
