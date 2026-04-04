@@ -29,23 +29,33 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 <tr>
 <td align="center" width="50%">
 <a href="https://currentsky.es/vibe/">
-  <img src="https://github.com/stas-gatin/stas-gatin/blob/main/assets/vibe.webp" width="80%">
+  <img src="https://raw.githubusercontent.com/stas-gatin/stas-gatin/main/assets/vibe.webp" width="80%">
 </a>
 <br><br>
 <b>🧠 Vibe</b><br>
 <sub>AI-native workflow engine for building and automating intelligent systems</sub>
+<br><br>
+<a href="https://currentsky.es/vibe/">
+  <img src="https://img.shields.io/badge/More_Info-1E90FF?style=for-the-badge&logo=readme&logoColor=white">
+</a>
 </td>
 
 <td align="center" width="50%">
 <a href="https://currentsky.es/forge3d/">
-  <img src="https://github.com/stas-gatin/stas-gatin/blob/main/assets/forge3d.webp" width="80%">
+  <img src="https://raw.githubusercontent.com/stas-gatin/stas-gatin/main/assets/forge3d.webp" width="80%">
 </a>
 <br><br>
 <b>🛠️ Forge3D</b><br>
 <sub>Generative AI system for transforming ideas into structured 3D models</sub>
+<br><br>
+<a href="https://currentsky.es/forge3d/">
+  <img src="https://img.shields.io/badge/More_Info-1E90FF?style=for-the-badge&logo=readme&logoColor=white">
+</a>
 </td>
 </tr>
 </table>
+
+---
 
 ### 💻 Core Languages
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
@@ -113,10 +123,3 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
  Last Updated on 04/04/2026 15:23:15 UTC
 <!--END_SECTION:waka-->
-
----
-
-### 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stas-gatin&repo=NeuroWeave&theme=transparent)](https://github.com/stas-gatin/NeuroWeave)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stas-gatin&repo=Sistemas-Expertos&theme=transparent)](https://github.com/stas-gatin/Sistemas-Expertos)
----
