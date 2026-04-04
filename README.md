@@ -23,6 +23,29 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 
 ---
 
+### 🏆 Featured Projects
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://currentsky.es/vibe/">
+  <img src="https://github.com/stas-gatin/stas-gatin/blob/main/assets/vibe.webp" width="80%">
+</a>
+<br><br>
+<b>🧠 Vibe</b><br>
+<sub>AI-native workflow engine for building and automating intelligent systems</sub>
+</td>
+
+<td align="center" width="50%">
+<a href="https://currentsky.es/forge3d/">
+  <img src="https://github.com/stas-gatin/stas-gatin/blob/main/assets/forge3d.webp" width="80%">
+</a>
+<br><br>
+<b>🛠️ Forge3D</b><br>
+<sub>Generative AI system for transforming ideas into structured 3D models</sub>
+</td>
+</tr>
+</table>
 
 ### 💻 Core Languages
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
