@@ -35,35 +35,6 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ![Lua](https://img.shields.io/badge/Lua-Intermediate-2C2D72?logo=lua)
 ![Prolog](https://img.shields.io/badge/Prolog-Basic-2C2D72)
 
-
-### 🧠 Knowledge
-```text
-Low-Level:      MIPS Architecture  Serial Protocols   Hardware Interfacing  Microcontrollers
-AI Stack:       TensorFlow Lite    OpenCV             Scikit-learn          Neural Networks
-Web Stack:      Flask              WordPress          REST APIs             HTML  CSS
-Security:       Wireshark          Pen Testing        Cryptography          Basic Cybersecurity
-3D Ecosystem:   Blender            Unity              Ultimaker Cura        3D Printing
-Development:    Git                GitHub             Docker                VS Code  PyCharm
-Hardware:       Arduino            ESP32/ESP8266      Raspberry Pi          Attiny85
-Multimedia:     OBS Studio         DaVinci Resolve    CapCut                Filmora
-Infrastructure: Home Assistant     Grafana            Node-RED              Linux  Windows  MacOS
-Blockchain:     Blockchain         Crypto             Mining                Smart Contracts
-```
-
----
-
-### 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://currentsky.es">
-    <img src="https://img.shields.io/badge/🌌_CurrentSky-Electric_aircrafts-7D4698?style=for-the-badge&logo=stars" alt="Electric aircrafts">
-  </a>
-  <br>
-  <a href="https://github.com/itprosta">
-    <img src="https://img.shields.io/badge/💾_Legacy_Projects-181717?style=for-the-badge&logo=github" alt="Previous Work">
-  </a>
-</div>
-
 ---
 ### 🚀 GitHub Analytics
 
