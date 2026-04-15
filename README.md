@@ -95,14 +95,13 @@ Sunday                   113 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Text                     14 mins             ███████████████████░░░░░░   75.43 % 
-Python                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -118,5 +117,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2026 02:55:19 UTC
+ Last Updated on 15/04/2026 02:53:07 UTC
 <!--END_SECTION:waka-->
