@@ -72,55 +72,20 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2043%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Tuesday                  251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Wednesday                380 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Thursday                 537 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Friday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Saturday                 174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Sunday                   116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Python                   7 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.82 % 
-Other                    5 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
-Swift                    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-TeX                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-
-🔥 Editors: 
-VS Code                  14 hrs 58 mins      ██████████████████████░░░   88.08 % 
-Unknown Editor           2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-
-💻 Operating System: 
-Mac                      16 hrs 59 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.48%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ██████████████░░░░░░░░░░░   55.56 % 
-Swift                    7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   15 repos            █████████████░░░░░░░░░░░░   53.57 % 
+Swift                    7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 17/05/2026 03:51:10 UTC
+ Last Updated on 18/05/2026 04:03:28 UTC
 <!--END_SECTION:waka-->
