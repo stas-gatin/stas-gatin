@@ -72,42 +72,9 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.48%20million%20lines%20of%20code-blue?style=flat)
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Tuesday                  251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Wednesday                380 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Thursday                 537 commits         ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Friday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Saturday                 183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Sunday                   148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Python                   7 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.56 % 
-Other                    6 hrs               ████████░░░░░░░░░░░░░░░░░   30.51 % 
-Swift                    2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-TeX                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 50 mins      █████████████████████░░░░   85.44 % 
-Unknown Editor           2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-
-💻 Operating System: 
-Mac                      19 hrs 43 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.49%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -122,5 +89,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2026 03:57:30 UTC
+ Last Updated on 20/05/2026 03:57:39 UTC
 <!--END_SECTION:waka-->
