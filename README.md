@@ -72,7 +72,42 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2054%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.57%20million%20lines%20of%20code-blue?style=flat)
+
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Tuesday                  313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Wednesday                578 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Thursday                 557 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Friday                   470 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Saturday                 381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Sunday                   246 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Python                   4 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+Markdown                 3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Swift                    2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+C++                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 59 mins      █████████████████████░░░░   82.61 % 
+Claude Code              2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+
+💻 Operating System: 
+Mac                      16 hrs 56 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -87,5 +122,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 03:38:33 UTC
+ Last Updated on 24/05/2026 04:00:31 UTC
 <!--END_SECTION:waka-->
