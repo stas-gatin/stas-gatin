@@ -74,7 +74,27 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.68%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.67%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+TypeScript               5 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.62 % 
+Swift                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Markdown                 1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Python                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 47 mins      ████████████████████████░   94.84 % 
+Claude Code              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+
+💻 Operating System: 
+Mac                      12 hrs 26 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -89,5 +109,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 04:08:41 UTC
+ Last Updated on 06/06/2026 03:52:55 UTC
 <!--END_SECTION:waka-->
