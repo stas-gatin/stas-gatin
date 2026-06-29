@@ -72,9 +72,9 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.97%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.05%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -82,17 +82,18 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Swift                    2 hrs 17 mins       █████████████████████░░░░   84.17 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Swift                    9 hrs 20 mins       ████████████████████░░░░░   81.94 % 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 41 mins       █████████████████████████   99.15 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Claude Code              11 hrs 22 mins      █████████████████████████   99.80 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Mac                      2 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +109,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2026 04:12:27 UTC
+ Last Updated on 29/06/2026 04:19:50 UTC
 <!--END_SECTION:waka-->
