@@ -72,9 +72,9 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2050%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.05%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.31%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -82,18 +82,14 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Swift                    9 hrs 20 mins       ████████████████████░░░░░   81.94 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-
-🔥 Editors: 
-Claude Code              11 hrs 22 mins      █████████████████████████   99.80 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Swift                    18 hrs 1 min        ██████████████████████░░░   88.73 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      11 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,5 +105,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2026 04:19:50 UTC
+ Last Updated on 30/06/2026 04:00:14 UTC
 <!--END_SECTION:waka-->
