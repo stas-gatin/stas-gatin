@@ -72,9 +72,9 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.17%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -82,14 +82,14 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Swift                    22 hrs 20 mins      ███████████████░░░░░░░░░░   58.59 % 
-JavaScript               5 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Markdown                 4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Python                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Swift                    13 hrs 42 mins      ████████████░░░░░░░░░░░░░   47.54 % 
+Markdown                 4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+JavaScript               4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Other                    2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 💻 Operating System: 
-Mac                      38 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      28 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +105,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2026 03:57:20 UTC
+ Last Updated on 07/07/2026 03:47:12 UTC
 <!--END_SECTION:waka-->
