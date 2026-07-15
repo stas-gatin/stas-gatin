@@ -74,7 +74,7 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.27%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -82,28 +82,28 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Swift                    1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   41.66 % 
-Git Config               42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Swift                    4 hrs 50 mins       ██████████████░░░░░░░░░░░   55.56 % 
+Markdown                 1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Git Config               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 💻 Operating System: 
-Mac                      4 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Swift                    9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   17 repos            ████████████░░░░░░░░░░░░░   48.57 % 
+Swift                    9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 14/07/2026 02:47:50 UTC
+ Last Updated on 15/07/2026 02:46:26 UTC
 <!--END_SECTION:waka-->
