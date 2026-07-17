@@ -72,25 +72,9 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.34%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Swift                    4 hrs 50 mins       ██████████████░░░░░░░░░░░   55.56 % 
-Markdown                 1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Git Config               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-
-💻 Operating System: 
-Mac                      8 hrs 41 mins       █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.39%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -105,5 +89,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 02:53:35 UTC
+ Last Updated on 17/07/2026 02:55:54 UTC
 <!--END_SECTION:waka-->
