@@ -72,22 +72,38 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.47%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Swift                    14 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
+Python                   6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Markdown                 5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+HTML                     4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+JavaScript               1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+
+💻 Operating System: 
+Mac                      33 hrs 56 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ████████████░░░░░░░░░░░░░   48.57 % 
-Swift                    9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   17 repos            ████████████░░░░░░░░░░░░░   47.22 % 
+Swift                    9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 17/07/2026 02:55:54 UTC
+ Last Updated on 18/07/2026 02:48:09 UTC
 <!--END_SECTION:waka-->
