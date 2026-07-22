@@ -1,5 +1,5 @@
 ### 👋 About Me
-I am a **Third-year student in Artificial Intelligence Engineering** at the University of Alicante, with a strong passion for programming, AI, robotics, and emerging technologies. I bridge the gap between academic theory and practical innovation.
+I am a **Fourth-year student in Artificial Intelligence Engineering** at the University of Alicante, with a strong passion for programming, AI, robotics, and emerging technologies. I bridge the gap between academic theory and practical innovation.
 
 My expertise includes:
 - 🧠 **Generative AI & RAG:** Designing intelligent architectures for complex problem-solving and autonomous process automation.
