@@ -74,22 +74,6 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.59%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Swift                    5 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.45 % 
-Markdown                 3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-C++                      2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Python                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-
-💻 Operating System: 
-Mac                      12 hrs 42 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -103,5 +87,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:56:47 UTC
+ Last Updated on 25/07/2026 02:56:19 UTC
 <!--END_SECTION:waka-->
