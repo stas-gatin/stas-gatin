@@ -92,30 +92,6 @@ Python                   37 mins             █░░░░░░░░░░�
 Mac                      12 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 29 mins (98.54%)
-
-✍️ 3,171 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 298,463,470 Input Tokens, 955,709 Output Tokens
-
-💵 $1834.26 Estimated AI Cost This Week
-
-🧠 21 AI Sessions, 184 AI Prompts
-
-Opus                     3,772 lines         ███████████████████████░░   93.85 % 
-Gemini                   247 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 802 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
