@@ -72,11 +72,7 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2057%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.60%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.61%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -84,35 +80,37 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Swift                    6 hrs 1 min         ██████████████░░░░░░░░░░░   55.56 % 
-Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-HTML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Swift                    5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   45.92 % 
+Markdown                 2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 💻 Operating System: 
-Mac                      10 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 40 mins (98.29%)
+⏱ AI Coding Time: 12 hrs 29 mins (98.54%)
 
-✍️ 3,389 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,171 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 343,059,256 Input Tokens, 1,109,928 Output Tokens
+🔤 298,463,470 Input Tokens, 955,709 Output Tokens
 
-💵 $2061.17 Estimated AI Cost This Week
+💵 $1834.26 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 146 AI Prompts
+🧠 21 AI Sessions, 184 AI Prompts
 
-Opus                     4,245 lines         █████████████████████████   100.00 % 
+Opus                     3,772 lines         ███████████████████████░░   93.85 % 
+Gemini                   247 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,142 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 802 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -129,5 +127,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:49:36 UTC
+ Last Updated on 29/07/2026 02:55:46 UTC
 <!--END_SECTION:waka-->
