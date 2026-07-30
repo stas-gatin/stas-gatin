@@ -72,5 +72,62 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 ### 🚀 GitHub Analytics
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2014%20mins-blue?style=flat)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.61%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Swift                    6 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.57 % 
+Markdown                 4 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+HTML                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+TypeScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Python                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+
+💻 Operating System: 
+Mac                      15 hrs 57 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 15 hrs 46 mins (98.84%)
+
+✍️ 4,213 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 354,954,627 Input Tokens, 1,289,092 Output Tokens
+
+💵 $1804.07 Estimated AI Cost This Week
+
+🧠 23 AI Sessions, 239 AI Prompts
+
+Opus                     4,134 lines         ███████████████████████░░   93.00 % 
+Gemini                   311 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 574 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   17 repos            ███████████░░░░░░░░░░░░░░   45.95 % 
+Swift                    9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+```
+
+
+
+
+ Last Updated on 30/07/2026 14:14:44 UTC
 <!--END_SECTION:waka-->
