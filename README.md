@@ -74,11 +74,11 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 <!--START_SECTION:waka-->
 
 ```txt
-Python            3 hrs 9 mins          ████████▒░░░░░░░░░░░░░░░░   33.14 %
-Markdown          2 hrs 53 mins         ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-YAML              1 hr 8 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Swift             1 hr 3 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-C++               35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Markdown          6 hrs 35 mins         ████████▓░░░░░░░░░░░░░░░░   34.47 %
+Python            5 hrs 54 mins         ███████▓░░░░░░░░░░░░░░░░░   30.85 %
+Swift             3 hrs 1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+YAML              2 hrs 2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Protocol Buffer   45 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
