@@ -71,7 +71,7 @@ Four neural networks running live on the iPhone Neural Engine, fully offline.<br
 | Area | Tools and skills |
 |---|---|
 | 🎛️ **Embedded and control** | C++, C, real time firmware, sensor fusion, PID and control allocation, I2C and SPI, RF links |
-| 🤖 **Reinforcement learning** | PPO, Stable-Baselines3, Gymnasium, Webots, MuJoCo, reward design, curriculum learning, hierarchical policies |
+| 🤖 **Reinforcement learning** | PPO, Stable-Baselines3, Gymnasium, Webots, reward design, curriculum learning, hierarchical policies |
 | 👁️ **AI and computer vision** | Python, PyTorch, YOLO, Core ML, Apple Vision, on device inference and model optimisation |
 | ✨ **Generative AI** | LLM architectures, RAG pipelines, autonomous and multi agent systems |
 | 🍎 **Apple platforms** | Swift, SwiftUI, SwiftData |
