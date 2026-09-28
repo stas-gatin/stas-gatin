@@ -1,29 +1,87 @@
-### 👋 About Me
-I am a **Fourth-year student in Artificial Intelligence Engineering** at the University of Alicante, with a strong passion for programming, AI, robotics, and emerging technologies. I bridge the gap between academic theory and practical innovation.
-
-My expertise includes:
-- 🧠 **Generative AI & RAG:** Designing intelligent architectures for complex problem-solving and autonomous process automation.
-- 🤖 **Intelligent Agents:** Developing autonomous systems capable of sophisticated interaction with diverse data and environments.
-- 🦾 **Modular Robotics:** Engineering adaptive algorithms that empower robotic systems to react autonomously to dynamic surroundings.
-- 📈 **Tactical Planning & Coordination:** Leading cross-functional teams with structured coordination and strategic project execution.
-
----
-
-### 🚀 Startup: [CurrentSky](https://currentsky.es/)
-As the founder of **CurrentSky**, I am dedicated to integrating artificial intelligence into everyday tasks. We provide practical, high-impact solutions for optimization and efficiency across multiple domains, making AI accessible and useful for everyone.
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Stanislav%20Gatin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stas-gatin/stas-gatin/main/assets/hero.svg" width="100%" alt="Stanislav Gatin. The whole stack of a machine, from firmware to learned policies.">
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/stanislav-gatin"><img src="https://img.shields.io/badge/LinkedIn-Stanislav%20Gatin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://currentsky.es/"><img src="https://img.shields.io/badge/CurrentSky-Founder-000000?style=for-the-badge&logo=safari&logoColor=white" alt="CurrentSky"></a>
+  <img src="https://img.shields.io/badge/Alicante-Spain-C60B1E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Alicante, Spain">
+</p>
 
-### 🏆 Featured Projects
+AI Engineering student at the University of Alicante and founder of [**CurrentSky**](https://currentsky.es/). I build machines across the whole stack: **firmware and control** at the bottom, **computer vision and reinforcement learning** at the top. Everything I make has to work in the real world, not just in a notebook.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stas-gatin/stas-gatin/main/assets/numbers-dark.svg">
+  <img src="https://raw.githubusercontent.com/stas-gatin/stas-gatin/main/assets/numbers-light.svg" width="100%" alt="By the numbers: about 1,500 hours building a thrust vectored UAV; over 450 million RL simulation steps; 98% of goals reached by the RL hexapod with zero falls; YOLO inference from 35 to 6 ms; over 1,000 GitHub contributions in 2026; over 47 thousand lines of code since May; about 150 pull requests merged; zero lines of hand written gait.">
+</picture>
+
+### 🔭 Now building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛩️ Thrust vectored UAV**<br>
+Statically unstable by design. Held in the air only by active control.<br><br>
+<img src="https://img.shields.io/badge/years-6-2f81f7?style=flat-square">
+<img src="https://img.shields.io/badge/prototypes-3-2f81f7?style=flat-square">
+
+</td>
+<td width="50%" valign="top">
+
+**🧭 Kairos flight computer**<br>
+Flight firmware written from scratch, with its own macOS ground station.<br><br>
+<img src="https://img.shields.io/badge/firmware-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/GCS-SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Hexapod that taught itself to walk**<br>
+Reinforcement learning thesis. No hand written gait, just a reward and a simulator.<br><br>
+<img src="https://img.shields.io/badge/RL-PPO-a371f7?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/sim-Webots-a371f7?style=flat-square">
+
+</td>
+<td width="50%" valign="top">
+
+**🏀 Basketball Shot Tracker**<br>
+Four neural networks running live on the iPhone Neural Engine, fully offline.<br><br>
+<img src="https://img.shields.io/badge/Core_ML-Neural_Engine-f0883e?style=flat-square&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/YOLO-FP16-f0883e?style=flat-square">
+
+</td>
+</tr>
+</table>
+
+<sub>Most of this lives in private repositories while in active development. Happy to walk you through any of it.</sub>
+
+### 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,pytorch,swift,apple,js,mysql,matlab,git&theme=dark" alt="C++, C, Python, PyTorch, Swift, Apple, JavaScript, SQL, MATLAB, Git">
+</p>
+
+<details>
+<summary><b>Full list</b></summary>
+<br>
+
+| Area | Tools and skills |
+|---|---|
+| 🎛️ **Embedded and control** | C++, C, real time firmware, sensor fusion, PID and control allocation, I2C and SPI, RF links |
+| 🤖 **Reinforcement learning** | PPO, Stable-Baselines3, Gymnasium, Webots, MuJoCo, reward design, curriculum learning, hierarchical policies |
+| 👁️ **AI and computer vision** | Python, PyTorch, YOLO, Core ML, Apple Vision, on device inference and model optimisation |
+| ✨ **Generative AI** | LLM architectures, RAG pipelines, autonomous and multi agent systems |
+| 🍎 **Apple platforms** | Swift, SwiftUI, SwiftData |
+| ➕ **Also** | JavaScript, SQL, MATLAB, MIPS assembly |
+
+</details>
+
+### 🚀 CurrentSky
+
+Practical AI tools, not demos.
 
 <table>
 <tr>
@@ -55,30 +113,6 @@ As the founder of **CurrentSky**, I am dedicated to integrating artificial intel
 </tr>
 </table>
 
----
-
-### 💻 Core Languages
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Expert-00599C?logo=cplusplus)
-![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?logo=c)
-![JavaScript](https://img.shields.io/badge/JS-Intermediate-F7DF1E?logo=javascript)
-![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-FC4E2A?logo=mathworks)
-![Assembler MIPS](https://img.shields.io/badge/ASM%20MIPS-Basic-6E4C13)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql)
-![Lua](https://img.shields.io/badge/Lua-Intermediate-2C2D72?logo=lua)
-![Prolog](https://img.shields.io/badge/Prolog-Basic-2C2D72)
-
----
-### 🚀 GitHub Analytics
-
-<!--START_SECTION:waka-->
-
-```txt
-Other        9 hrs 28 mins         ████████████░░░░░░░░░░░░░   48.34 %
-Python       4 hrs 5 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
-Markdown     1 hr 47 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-HTML         1 hr 19 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-JavaScript   56 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stas-gatin/stas-gatin/main/assets/footer.svg" width="100%" alt="Control, perception, learning.">
+</p>
