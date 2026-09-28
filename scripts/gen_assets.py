@@ -66,9 +66,13 @@ def hero():
         clips.append(
             f'<clipPath id="c{i}"><rect x="{tx}" y="{ty - 22}" height="30" width="{pts[0][1] * CW:.1f}">'
             f'{smil_discrete("width", pts, lambda c: f"{c * CW:.1f}")}</rect></clipPath>')
+        # WebKit ignores a zero-width clip and would draw every phrase at once,
+        # so phrases are also hidden outright whenever they have no characters.
+        vis = lambda c: "visible" if c > 0 else "hidden"
         lines.append(
             f'<text x="{tx}" y="{ty}" clip-path="url(#c{i})" textLength="{n * CW:.1f}" '
-            f'lengthAdjust="spacing">{p}</text>')
+            f'lengthAdjust="spacing" visibility="{vis(pts[0][1])}">{p}'
+            f'{smil_discrete("visibility", pts, vis)}</text>')
     # cursor sits after whichever phrase is currently on screen
     times = sorted({t for pts in timelines for t, _ in pts})
     cursor_pts = [(t, sum(state_at(pts, t) for pts in timelines)) for t in times]
